@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Soyeb01
-- 👀 I’m interested in Javascript.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on Front End Web Development Real time Projects.
+-  Hi, I’m @Soyeb01
+-  I'm a developer.
+-  I’m interested in contribution in communities.
