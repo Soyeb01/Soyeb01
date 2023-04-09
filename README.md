@@ -16,6 +16,6 @@ My name is **MD Soyeb** and I am currently a student from *India*. After learnin
 - <a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" width="15px" ></a>  Git
 - <a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="15px" ></a>  PHP
 
-## Current Learning
+## Currently Learning
 
 - <a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons"><img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="15px" ></a>  React JS
