@@ -3,7 +3,8 @@
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="350px">
 
 ## About Me
-My name is **MD Soyeb** and I am currently a student from *India*. After learning about **GitHub**, **Open Source**. It always fascinates me what we can do and how we can come from different placees and make contribution to the world and make networks with Open Source contribution.
+My name is **MD Soyeb** and I am currently a student from *India*. After learning about **GitHub**, **Open Source**. It always fascinates me what we can do and how we can come from different places and make contribution to the world and make networks with Open Source contribution.
+
 
 ## Technologies I know 
 
@@ -15,6 +16,17 @@ My name is **MD Soyeb** and I am currently a student from *India*. After learnin
 - <a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons"><img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" width="15px" ></a>  SCSS
 - <a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" width="15px" ></a>  Git
 - <a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="15px" ></a>  PHP
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=soyeb01&show_icons=true&theme=radical&hide_rank=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeb01&layout=compact"/>
+    </td>
+  </tr>
+</table>
 
 ## Currently Learning
 
